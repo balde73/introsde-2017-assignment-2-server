@@ -5,7 +5,7 @@ Federico Baldessari | federico.baldesssari@studenti.unitn.it
 [Heroku Server](https://example-balde.herokuapp.com/sdelab/person)
 
 ## About the code
-The project is divided into 4 packages
+The project is divided into 5 packages
 - `rest`: contains _App.java_ and _MyApplicationConfig.java_ in order to run the server
 - `rest.dao`: contains the data access object that connects to the database and persist data. All the CRUD operations happens here
 - `rest.model`: contains the entity
